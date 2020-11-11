@@ -4,4 +4,5 @@ Contains Important  Dyamic Programming Problems for Interview Prep
 
 Sites:GFG
 
-Welcoming more people to add more questions on DP which are frequently asked in the Interviews.
+
+If you wanna collaborate on this repository , drop a mail on sristi2705@gmail.com
